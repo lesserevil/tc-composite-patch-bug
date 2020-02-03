@@ -1,0 +1,21 @@
+diff --git a/file0 b/file0
+index ea44fbc..3f06cfc 100644
+--- a/file0
++++ b/file0
+@@ -1 +1 @@
+-This is file 0
++This is file 0 with edits
+diff --git a/file1 b/file1
+deleted file mode 100644
+index 6a00e12..0000000
+--- a/file1
++++ /dev/null
+@@ -1 +0,0 @@
+-This is file 1
+diff --git a/file2 b/file2
+new file mode 100644
+index 0000000..4ab7e6d
+--- /dev/null
++++ b/file2
+@@ -0,0 +1 @@
++This is file 2
